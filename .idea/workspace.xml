@@ -41,11 +41,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c84a89f1-04dd-4d63-8325-4d9700d4748f" name="Changes" comment="Assignment3">
-      <change beforePath="$PROJECT_DIR$/../../COMP2068JSFrameworks" beforeDir="false" afterPath="$PROJECT_DIR$/../../COMP2068JSFrameworks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../assignment2_Rajput/MovieSearchApp" beforeDir="false" afterPath="$PROJECT_DIR$/../../assignment2_Rajput/MovieSearchApp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../event-registration-paypal" beforeDir="false" afterPath="$PROJECT_DIR$/../../event-registration-paypal" afterDir="false" />
-    </list>
+    <list default="true" id="c84a89f1-04dd-4d63-8325-4d9700d4748f" name="Changes" comment="Assignment3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -108,7 +104,12 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/../.." value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="MIXED" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
@@ -119,7 +120,7 @@
 }]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
-    "url": "https://github.com/prakshali9/COMP3025Assign3",
+    "url": "https://github.com/prakshali9/MovieRatingListApp.git",
     "accountId": "5ecb56be-380f-48a8-8ad1-07c7c91a7f27"
   }
 }]]></component>
@@ -321,9 +322,14 @@
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="0d6a819b-1d5c-4ca8-b6c5-961e2f889b1d" value="TOOL_WINDOW" />
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
-        <entry key="MAIN">
+        <entry key="0d6a819b-1d5c-4ca8-b6c5-961e2f889b1d">
           <value>
             <State>
               <option name="FILTERS">
@@ -338,6 +344,11 @@
                 </map>
               </option>
             </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
           </value>
         </entry>
       </map>
