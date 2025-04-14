@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "776780660202",
+    "project_id": "movielistapp-f6a7f",
+    "storage_bucket": "movielistapp-f6a7f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776780660202:android:5bf388b9283712c1798693",
+        "android_client_info": {
+          "package_name": "com.example.MovieRatingListApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkMSbnLG6Sx5f9m4kL1oQSml_pAP2_XcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776780660202:android:ae5b766c007a9d0d798693",
+        "android_client_info": {
+          "package_name": "com.example.movieratinglistapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkMSbnLG6Sx5f9m4kL1oQSml_pAP2_XcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
